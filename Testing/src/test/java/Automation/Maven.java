@@ -8,5 +8,8 @@ public void practice() {
 	System.out.println("apple");
 	System.out.println("Ball");
 	System.out.println("Ball");
+	System.out.println("apple");
+	System.out.println("Ball");
+	System.out.println("Ball");
 }
 }
